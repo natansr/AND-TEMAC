@@ -1,0 +1,551 @@
+﻿item,count,f
+"none available",26,12.32
+"Department of Computer Science",16,7.58
+"Ann Arbor",10,4.74
+"University of Michigan",10,4.74
+"Department of Computer Science and Engineering",9,4.27
+"Survey Research Center",9,4.27
+"Universidade Federal de Minas Gerais",9,4.27
+"Beijing",8,3.79
+"Departamento de Ciencia da Computacao",8,3.79
+"Institute for Social Research",8,3.79
+"Universidade Federal de Ouro Preto",8,3.79
+"330 Packard Street",7,3.32
+"Departamento de Computacao",7,3.32
+"Department of Sociology",7,3.32
+"Institute for Research on Innovation and Science",7,3.32
+"School of Information Management",6,2.84
+"University Park",6,2.84
+"Chinese Academy of Sciences",5,2.37
+"Information Sciences and Technology",5,2.37
+"Pennsylvania State University",5,2.37
+"School of Computer Science",5,2.37
+"School of Information Sciences",5,2.37
+"University of Illinois at Urbana-Champaign",5,2.37
+"Belo Horizonte",4,1.90
+"COMSATS Institute of Information Technology",4,1.90
+"Champaign",4,1.90
+"Computer Science and Engineering",4,1.90
+"Edmonton",4,1.90
+"GESIS - Leibniz Institute for the Social Sciences",4,1.90
+"Indian Institute of Technology Patna",4,1.90
+"Institute for Research on Innovation & Science",4,1.90
+"Patna",4,1.90
+"School of Library and Information Studies",4,1.90
+"University of Alberta",4,1.90
+"University of Chinese Academy of Sciences",4,1.90
+"University of Illinois at Chicago",4,1.90
+"Wuhan University",4,1.90
+"Beijing University of Technology",3,1.42
+"Chicago",3,1.42
+"Communication Networks and Information Security Research Lab",3,1.42
+"Department of Computer Science and Software Engineering",3,1.42
+"Department of Library and Information Science",3,1.42
+"Department of Psychiatry",3,1.42
+"Islamabad",3,1.42
+"Ouro Preto",3,1.42
+"Shanghai",3,1.42
+"Universitas Sriwijaya",3,1.42
+"Unter Sachsenhausen 6-8",3,1.42
+"Zhongnan University of Economics and Law",3,1.42
+"Administrative Headquarters of the Max Planck Society",2,0.95
+"Ansan",2,0.95
+"Beijing Advanced Innovation Center for Future Internet Technology",2,0.95
+"Beijing University of Posts and Telecommunications",2,0.95
+"College of Computer",2,0.95
+"Department of Computer Science and Information Engineering",2,0.95
+"Division for Science and Innovation Studies",2,0.95
+"FIZ Karlsruhe",2,0.95
+"Faculty of Information Technology",2,0.95
+"Hanoi Highway",2,0.95
+"Hanyang University",2,0.95
+"Heidelberg Institute for Theoretical Studies",2,0.95
+"Hofgartenstr. 8",2,0.95
+"Indiana Univ",2,0.95
+"Inner Mongolia University",2,0.95
+"Institute of Information Science",2,0.95
+"Institute of Technology",2,0.95
+"Intelligent Systems Research Group",2,0.95
+"Interdisciplinary Centre for Mathematical and Computational Modelling",2,0.95
+"Islamabad Expressway",2,0.95
+"KU Leuven",2,0.95
+"Kahuta Road",2,0.95
+"Km 20",2,0.95
+"Konradstr. 6",2,0.95
+"Korea Institute of Science and Technology Information (KISTI)",2,0.95
+"Leiden Univ",2,0.95
+"Mathematics Department",2,0.95
+"Microsoft Research",2,0.95
+"Munich",2,0.95
+"Nanjing",2,0.95
+"Nanjing University of Posts and Telecommunications",2,0.95
+"National Science Library",2,0.95
+"Palembang",2,0.95
+"Peng Cheng Laboratory",2,0.95
+"Redmond",2,0.95
+"Schloss Dagstuhl LZI",2,0.95
+"School of Computer Science and Software Engineering",2,0.95
+"School of Computer Science and Technology",2,0.95
+"School of Information",2,0.95
+"School of Information Science and Technology",2,0.95
+"School of Information Studies",2,0.95
+"School of Information and Safety Engineering",2,0.95
+"Shanghai Jiao Tong University",2,0.95
+"Shenzhen",2,0.95
+"South China Normal University",2,0.95
+"TU Bergakademie Freiberg",2,0.95
+"Thu Duc District",2,0.95
+"University of Bologna",2,0.95
+"University of California",2,0.95
+"University of Koblenz-Landau",2,0.95
+"University of Washington",2,0.95
+"Wuhan",2,0.95
+"Yonsei University",2,0.95
+"Zone-V",2,0.95
+"1",1,0.47
+"100 PingLeYuan",1,0.47
+"1271 Sa-3-Dong",1,0.47
+"132",1,0.47
+"138 Xianlin Ave",1,0.47
+"1601 W. Taylor Street",1,0.47
+"1601 W. Taylor Street MC912",1,0.47
+"20894",1,0.47
+"217 Gajeong-ro",1,0.47
+"232 Gongneung Ro",1,0.47
+"245 Daehak-ro",1,0.47
+"3-20 Rutherford South",1,0.47
+"314-79",1,0.47
+"343 Hinds Hall",1,0.47
+"35 Qinghua East Rd",1,0.47
+"401 W Brooks St",1,0.47
+"4a planta",1,0.47
+"50 Yonsei-Ro",1,0.47
+"501 E. Daniel Street",1,0.47
+"55 Hanyangdaehak-ro",1,0.47
+"59 Zhongguancun St",1,0.47
+"750 The City Drive Suite 490",1,0.47
+"8600 Rockville Pike",1,0.47
+"A.P. Ershov",1,0.47
+"AB",1,0.47
+"Academia Sinica",1,0.47
+"Agricultural Information Institute",1,0.47
+"Al. I. Cuza University of IaE(tm)i",1,0.47
+"Alan Turing Inst",1,0.47
+"Alibaba Group",1,0.47
+"Allen Institute for AI",1,0.47
+"Amazon Development Center",1,0.47
+"Arndtstr 2",1,0.47
+"Arthritis Research UK Epidemiology Unit",1,0.47
+"Austin",1,0.47
+"BGSB University",1,0.47
+"BR-21941972 Rio De Janeiro",1,0.47
+"Basel",1,0.47
+"Beijing Forestry Univ",1,0.47
+"Beijing Jiaotong University",1,0.47
+"Beijing Univ Technol",1,0.47
+"Berlin",1,0.47
+"Bethesda MD",1,0.47
+"Bibliometria",1,0.47
+"Biology and Microbiology",1,0.47
+"Bremen",1,0.47
+"Bunkyo-machi 1-14",1,0.47
+"Busan",1,0.47
+"Business",1,0.47
+"CEP 31270-010",1,0.47
+"CEP 35400-000",1,0.47
+"COMSATS University Islamabad",1,0.47
+"CRACS",1,0.47
+"CS and Statistics",1,0.47
+"CWDS",1,0.47
+"Caixa Postal 15.064",1,0.47
+"Caixa Postal 68511",1,0.47
+"Campus Morro Do Cruzeiro",1,0.47
+"Campus Ring 1",1,0.47
+"Capital University of Science & Technology",1,0.47
+"Capital University of Science and Technology",1,0.47
+"Centre For Educational Technology",1,0.47
+"Centre for R and D Monitoring (ECOOM)",1,0.47
+"Centre for Science and Technology Studies",1,0.47
+"Chair of Sociology in particular of Modeling and Simulation",1,0.47
+"Changsha",1,0.47
+"Chaoyang District",1,0.47
+"Charlottenstr. 4",1,0.47
+"Chengdu",1,0.47
+"Chinese Academy of Agricultural Sciences",1,0.47
+"Chungnam National University",1,0.47
+"Clarivate Analytics",1,0.47
+"Clausiusstrasse 50",1,0.47
+"Coll Econ & Management",1,0.47
+"College of Computer Science",1,0.47
+"College of Computer Yancheng Big Data Research Institute",1,0.47
+"College of Computer and Control Engineering",1,0.47
+"College of Computers and IT",1,0.47
+"College of Engineering and Science",1,0.47
+"College of Information Science and Engineering",1,0.47
+"Cologne",1,0.47
+"Columbia Univ",1,0.47
+"Columbus",1,0.47
+"Computing College of Computer",1,0.47
+"Comsats Institute of Information Technology",1,0.47
+"Comsats University Islamabad",1,0.47
+"Ctr Interuniv Rech Sci & Technol",1,0.47
+"Ctr Res Evaluat Sci & Technol CREST",1,0.47
+"Ctr Sci & Technol Studies",1,0.47
+"Ctr Sci & Technol Studies CWTS",1,0.47
+"Ctr Study Complex Syst",1,0.47
+"DBLP",1,0.47
+"DF",1,0.47
+"DISI",1,0.47
+"Daejeon",1,0.47
+"Daeyeon-dong",1,0.47
+"Dalle Molle Institute for Artificial Intelligence Research (IDSIA)",1,0.47
+"Data Security and Intelligent Processing",1,0.47
+"Dblp Comp Sci Bibliog",1,0.47
+"De Boelelaan 1081A",1,0.47
+"Dell Medical School",1,0.47
+"Departament de Ciencies Experimentals I de la Salut (CEXS)",1,0.47
+"Departamento de Ciencia Da Computacao",1,0.47
+"Departamento de Ciencias de la Computacion",1,0.47
+"Department of Biochemistry",1,0.47
+"Department of Business Administration",1,0.47
+"Department of Computer Science and Technology",1,0.47
+"Department of Computing",1,0.47
+"Department of Economics",1,0.47
+"Department of Economics Ohio State University",1,0.47
+"Department of Economics and Statistics",1,0.47
+"Department of Electrical and Computer Engineering",1,0.47
+"Department of Engineering and Management",1,0.47
+"Department of Humanities and Social Sciences",1,0.47
+"Department of Informatics",1,0.47
+"Department of Information Management",1,0.47
+"Department of Information Technology",1,0.47
+"Department of Library",1,0.47
+"Department of Library Information and Archives Management",1,0.47
+"Department of MSI and ECOOM",1,0.47
+"Department of Marketing and Trade Deals",1,0.47
+"Department of Mathematics and Information Education",1,0.47
+"Department of Overseas Information",1,0.47
+"Department of Political and Social Sciences",1,0.47
+"Department of Psychiatry (MC912)",1,0.47
+"Departments of Rheumatology and Research and Development",1,0.47
+"Dept Adm Management",1,0.47
+"Dept Biomed Informat",1,0.47
+"Dept Comp Sci & Software Engn",1,0.47
+"Dept Comp Sci & Technol",1,0.47
+"Dept Ind Engn",1,0.47
+"Dept Lib & Informat Sci",1,0.47
+"Dept Phys",1,0.47
+"Dept Publ Hlth",1,0.47
+"Dept. MSI",1,0.47
+"Dept. Management and Economics",1,0.47
+"Dept. of Appl. Math.",1,0.47
+"Dept. of Computer Science",1,0.47
+"Deptt. of Information Technology",1,0.47
+"Detroit",1,0.47
+"Dipartimento di Ingegneria dell'Impresa",1,0.47
+"Division of the Humanities",1,0.47
+"Dr. Aiguader 88",1,0.47
+"Drexel University",1,0.47
+"Dudley",1,0.47
+"Dudley Group NHS Foundation Trust (Teaching Trust of the University of Birmingham",1,0.47
+"Dusseldorf",1,0.47
+"ECOOM",1,0.47
+"EE and CS",1,0.47
+"ETH Zurich",1,0.47
+"East China Normal University",1,0.47
+"Ecole Bibliothecon & Sci Informat",1,0.47
+"Edge Hill University",1,0.47
+"Evanston",1,0.47
+"FEB",1,0.47
+"FIZ Karlsruhe - Leibniz Institute for Information Infrastructure",1,0.47
+"Fac Comp & Informat Technol",1,0.47
+"Fac Social & Behav Sci",1,0.47
+"Faculty of Computer Sciences",1,0.47
+"Faculty of Electronics and Information Technology",1,0.47
+"Faculty of Information and Technology",1,0.47
+"Fed Univ Rio de Janeiro UFRJ",1,0.47
+"Federal University of Minas Gerais",1,0.47
+"Fisciano",1,0.47
+"Foundation University",1,0.47
+"Foundation University Institute of Rehabilitation Sciences",1,0.47
+"Fraunhofer Institute for Applied Information Technology",1,0.47
+"Freiberg",1,0.47
+"Fundacio Parc de Recerca Biomedica de Barcelona (FPRBB)",1,0.47
+"GESIS - Leibniz-Institute for the Social Sciences",1,0.47
+"GESIS Leibniz Institute for the Social Sciences",1,0.47
+"GESIS Leibniz-Institute for the Social Sciences",1,0.47
+"Gesis - Leibniz-Institute for the Social Sciences",1,0.47
+"Ghent University",1,0.47
+"Google Engineering",1,0.47
+"Graduate School of Library and Information Science",1,0.47
+"Guangzhou 510275",1,0.47
+"Gyeonggi-Do",1,0.47
+"Haidian District",1,0.47
+"Heidelberg Institute for Theoretical Studies GGmbH",1,0.47
+"Heidelberg Institute for Theoretical Studies gGmbH",1,0.47
+"Heifei",1,0.47
+"Heinrich-Heine-Universitat Dusseldorf",1,0.47
+"Hitotsubashi 2-1-2",1,0.47
+"Hochschule fur Technik und Wirtschaft",1,0.47
+"Hochschulring 18",1,0.47
+"Hohhot",1,0.47
+"Hong Kong University of Science and Technology",1,0.47
+"Huazhong University of Science and Technology",1,0.47
+"IMT Institute for Advanced Studies Lucca",1,0.47
+"INESC TEC",1,0.47
+"Ikenobe 3011-2",1,0.47
+"Indian Institute of Technology",1,0.47
+"Indiana University",1,0.47
+"Inesc Tec and University of Tras-os-Montes e Alto Douro",1,0.47
+"Informatics Research Center",1,0.47
+"Information and Archives Management",1,0.47
+"Information and Electrical Engineering",1,0.47
+"Inner Mongilia A.R. Key Laboratory of Data Mining and Knowledge Engineering",1,0.47
+"Inst Informat",1,0.47
+"Institut Municipal d'Investigacio Medica (IMIM)",1,0.47
+"Institute AIFB",1,0.47
+"Institute for Theoretical Physics",1,0.47
+"Institute for Web Science and Technologies (WeST)",1,0.47
+"Institute of Artificial Intelligence",1,0.47
+"Institute of Computational Linguistics",1,0.47
+"Institute of Computing",1,0.47
+"Institute of Informatics Systems",1,0.47
+"Institute of Information Engineering",1,0.47
+"Institute of Microelectronics",1,0.47
+"Institute of Physiotherapy and Rehabilitation Sciences",1,0.47
+"Institute of Scientific and Technical Information of China",1,0.47
+"Instituto de Informatica",1,0.47
+"Intelligent System Research Group",1,0.47
+"International Center for Higher Education Research",1,0.47
+"International Islamic University",1,0.47
+"International Islamic University Islamabad",1,0.47
+"Irvine",1,0.47
+"Irving Inst Clin & Translat Res",1,0.47
+"Islamic World Science Citation Center",1,0.47
+"Jacobs University Bremen",1,0.47
+"Jiangsu Key Laboratory of Big",1,0.47
+"Jinan",1,0.47
+"Kaggle",1,0.47
+"Karlsruhe Inst Technol KIT",1,0.47
+"Karlsruhe Institute of Technology",1,0.47
+"Karlsruhe Institute of Technology (KIT)",1,0.47
+"Kassel",1,0.47
+"Key Laboratory of Agricultural Big Data",1,0.47
+"Key Laboratory of Rich-media Knowledge Organization and Service of Digital Publishing Content",1,0.47
+"King Abdulaziz Univ",1,0.47
+"Knowledgepark GmbH",1,0.47
+"Kolffpad 1",1,0.47
+"Korea Institute of Science and Technology Information",1,0.47
+"Korea University",1,0.47
+"Kuban State University",1,0.47
+"Kyungsung University",1,0.47
+"Laboratory for Studies of Research and Technology Transfer",1,0.47
+"Laboratory of Intelligent Information System",1,0.47
+"Laboratory of Software Engineering for Complex Systems",1,0.47
+"Leiden University",1,0.47
+"Leonrodstr 68",1,0.47
+"Lessingstr. 45",1,0.47
+"Lib",1,0.47
+"Library of University of Electronic Science and Technology of China",1,0.47
+"Linh Trung Ward",1,0.47
+"Lnx Research LLC",1,0.47
+"Lucca",1,0.47
+"Ludwig-Maximilians-Universitat Munich",1,0.47
+"Ludwig-Maximilians-University Munich",1,0.47
+"Mathematics and Statistics "B. de Finetti"",1,0.47
+"Media6Degrees",1,0.47
+"Microsoft",1,0.47
+"Miki-cho post office",1,0.47
+"Millington",1,0.47
+"Ministry of Agriculture and Rural Affairs",1,0.47
+"Ministry of Science and Technology",1,0.47
+"Monash University",1,0.47
+"Monchebergstr. 17",1,0.47
+"Montreal",1,0.47
+"NCBI",1,0.47
+"NCE/UFRJ",1,0.47
+"Nagasaki University",1,0.47
+"Nam-gu",1,0.47
+"Nanjing 210023",1,0.47
+"Nanjing Univ Chinese Med",1,0.47
+"Nanjing University",1,0.47
+"Nankai University",1,0.47
+"Nanshan District",1,0.47
+"National Center for Biotechnology Information",1,0.47
+"National Information Processing Institute",1,0.47
+"National Institute of Informatics",1,0.47
+"National Institute of Technology",1,0.47
+"National Institutes of Health",1,0.47
+"National Taiwan University of Science and Technology",1,0.47
+"National University of Defense Technology",1,0.47
+"National University of Sciences and Technology",1,0.47
+"Nawabshah",1,0.47
+"New York",1,0.47
+"No. 10",1,0.47
+"No. 100",1,0.47
+"No. 2",1,0.47
+"Nordic Institute for Studies in Innovation",1,0.47
+"North China University of Water Resources and Electric Power",1,0.47
+"Northeastern University",1,0.47
+"Northwestern University",1,0.47
+"Novosibirsk State University",1,0.47
+"Observ Sci & Technol",1,0.47
+"One Microsoft Way",1,0.47
+"Orange",1,0.47
+"P. O. Box 7",1,0.47
+"POB 905",1,0.47
+"PRED Informatics",1,0.47
+"Peking University",1,0.47
+"Pennslyvania State University",1,0.47
+"Peoples University of Medical and Health Sciences for Women",1,0.47
+"Philadelphia",1,0.47
+"Piazza San Francesco 19",1,0.47
+"Piazzale Europa",1,0.47
+"Pingleyuan",1,0.47
+"Pohang University of Science and Technology (POSTECH)",1,0.47
+"Porto",1,0.47
+"Preston University",1,0.47
+"Prosta 69",1,0.47
+"Publ Lib Sci",1,0.47
+"Purdy Kresge Library",1,0.47
+"Queen Mary Univ",1,0.47
+"RW Wilcocks Bldg",1,0.47
+"Regional Information Center for Science and Technology",1,0.47
+"Renmin Univ China",1,0.47
+"Res Base Beijing Modern Mfg Dev",1,0.47
+"Research and Education",1,0.47
+"Richardson",1,0.47
+"Roche Innovation Center",1,0.47
+"Roche Pharmaceutical Research and Early Development",1,0.47
+"Rua do Campo Alegre",1,0.47
+"Russells Hall Hospital",1,0.47
+"SAPPRFT",1,0.47
+"Samuel J Wood Lib",1,0.47
+"San Fransisco",1,0.47
+"Sangrok-Gu",1,0.47
+"Sao Paulo",1,0.47
+"Sch Econ & Management",1,0.47
+"Sch Informat & Comp",1,0.47
+"Sch Informat Management",1,0.47
+"Sch Informat Resource Management",1,0.47
+"Sch Law",1,0.47
+"Sch Lib & Informat Sci",1,0.47
+"Sch Lib & Informat Studies",1,0.47
+"Schlossplatz 1",1,0.47
+"School of Artificial Intelligence",1,0.47
+"School of Chinese Language and Literature",1,0.47
+"School of Computer Information",1,0.47
+"School of Computer Science and Electronic Engineering",1,0.47
+"School of Computer Science and Information Technology",1,0.47
+"School of Cyber Security",1,0.47
+"School of Data Science and Engineering",1,0.47
+"School of Electronic",1,0.47
+"School of Engineering and Science",1,0.47
+"School of ITEE",1,0.47
+"School of Informatics and Computing",1,0.47
+"School of Information and Library Science",1,0.47
+"School of Management",1,0.47
+"School of Mathematical Sc. and Engg.",1,0.47
+"School of Public Health",1,0.47
+"School of Software Engineering",1,0.47
+"Science Park Promotion Agency",1,0.47
+"Science and Technology on Parallel and Distributed Processing Laboratory",1,0.47
+"Seattle",1,0.47
+"Seodaemun-Gu",1,0.47
+"Seoul",1,0.47
+"Seoul Natl Univ Sci & Technol",1,0.47
+"Shandong Normal University",1,0.47
+"Shandong University",1,0.47
+"Shanghai Institute of Microsystem and Information Technology",1,0.47
+"ShanghaiTech University",1,0.47
+"Shiffman Medical Library",1,0.47
+"Sinchon-Dong",1,0.47
+"Soochow University",1,0.47
+"Soongsil University",1,0.47
+"South Kazakhstan State Pharmaceutical Academy",1,0.47
+"Springer Nat",1,0.47
+"State Key Laboratory of Digital Publishing Technology",1,0.47
+"State Key Laboratory of High Performance",1,0.47
+"Stellenbosch Univ",1,0.47
+"Sun Yat Sen Univ",1,0.47
+"Sun Yat-sen University",1,0.47
+"Swedish School of Library and Information Science (SSLIS)",1,0.47
+"Swiss Institute of Bioinformatics",1,0.47
+"Syracuse",1,0.47
+"Syracuse University",1,0.47
+"Syst Engn & Comp Sci Program PESC",1,0.47
+"Tacoma",1,0.47
+"Tercio Pacitti Institute of Computer Applications and Research",1,0.47
+"Texas Advanced Computing Center",1,0.47
+"The University of Manchester",1,0.47
+"Tianjin",1,0.47
+"Tongji Univ",1,0.47
+"Trieste",1,0.47
+"Tsinghua Univ",1,0.47
+"UK)",1,0.47
+"Ul. Nowowiejska 15/19",1,0.47
+"Ul. Pawinskiego 5A blok D",1,0.47
+"Univ Amsterdam",1,0.47
+"Univ Cambridge",1,0.47
+"Univ Giessen",1,0.47
+"Univ Michigan",1,0.47
+"Univ Montreal",1,0.47
+"Univ Oklahoma",1,0.47
+"Univ Quebec",1,0.47
+"Univ Sao Paulo",1,0.47
+"Univ. of Warsaw",1,0.47
+"Universidad de Cuenca",1,0.47
+"Universidade Do Porto",1,0.47
+"Universidade Federal Do Rio Grande Do sul (UFRGS)",1,0.47
+"UniversitAdegli Studi di Roma Tor Vergata",1,0.47
+"Universitat Pompeu Fabra (UPF)",1,0.47
+"University of Boras",1,0.47
+"University of Brasilia",1,0.47
+"University of Bremen",1,0.47
+"University of Chicago",1,0.47
+"University of Electronic Science and Technology of China",1,0.47
+"University of Ferrara",1,0.47
+"University of Illinois",1,0.47
+"University of Illinois at Urbana - Champaign",1,0.47
+"University of Information Technology",1,0.47
+"University of Information Technology - Vietnam",1,0.47
+"University of Kassel",1,0.47
+"University of Manchester",1,0.47
+"University of North Carolina at Chapel Hill",1,0.47
+"University of Rome "Tor Vergata"",1,0.47
+"University of Rome Tor Vergata",1,0.47
+"University of Salerno",1,0.47
+"University of Science and Technology (UST)",1,0.47
+"University of Science and Technology of China",1,0.47
+"University of Skovde",1,0.47
+"University of Texas at Austin",1,0.47
+"University of Texas at Dallas",1,0.47
+"University of Trieste",1,0.47
+"University of Warsaw",1,0.47
+"Urbana",1,0.47
+"Utad",1,0.47
+"VIDI Labs",1,0.47
+"Via Giovanni Paolo II",1,0.47
+"Via del Politecnico 1",1,0.47
+"Victoria University",1,0.47
+"Voronezh State University",1,0.47
+"Vrije Universiteit",1,0.47
+"Warsaw",1,0.47
+"Warsaw University of Technology",1,0.47
+"Waseda University",1,0.47
+"Wayne State University",1,0.47
+"Weill Cornell Med Coll",1,0.47
+"Wilhelminenhofstrasse 75A",1,0.47
+"Wuhan Univ",1,0.47
+"Xi'an Jiaotong University",1,0.47
+"Xingke first street",1,0.47
+"Xitucheng Road",1,0.47
+"Yancheng",1,0.47
+"Yonsei Univ",1,0.47
+"Yuseong-gu",1,0.47
+"Yusong-gu",1,0.47
+"Zhejiang Lab",1,0.47
+"Zhejiang Univ City Coll",1,0.47
+"Zhejiang University of Finance and Economics",1,0.47
+"Zhongkai University of Agriculture and Engineering",1,0.47
+"Zurich",1,0.47
