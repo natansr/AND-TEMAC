@@ -2,7 +2,7 @@
 import define1 from "./7a9e12f9fb3d8e06@459.js";
 
 function _1(md){return(
-md`# Sankey Diagram - AND - 2020-2022`
+md`# Sankey Diagram - AND - 2020-2025`
 )}
 
 function _linkColor(Inputs,URLSearchParams,html){return(
